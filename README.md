@@ -1,3 +1,5 @@
 # hello-world
 Hello World
-Its me here making my first commit
+I cloned this project into intellij 
+After that I have done a 
+Commit Then I have updated it and done a Pull
